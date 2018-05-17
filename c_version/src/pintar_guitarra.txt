@@ -1,0 +1,183 @@
+GUIA 1:
+---------
+
+1- Lixar a madeira
+2- Seladora
+3- Fundo PU
+4- Tinta PU
+5- Verniza (laca) PU
+
+Geralmente trabalho com tinta automotiva, o que torna o trabalho mais demorado, porque, além do selante e/ou fundo para madeira, também deve ser dada uma camada de fundo PU, antes da tinta propriamente dita. Além do fato de que é necessário um compressor e uma pistola de tinta ou aerógrafo( vocês não esperam pintar sua guitarra usando um pincel, esperam?). A seladora não faz parte do processo de remoção, mas ainda é um passo importante antes de iniciar a pintura.
+
+
+Aqui vai algumas dicas: 
+
+1) Lixa d'agua de 320 (evite 220 pois é mto agressiva)
+
+	Usar ela para nivelar a seladora, agora se tiver passado uma camada muito grossa de seladora, 
+	você deve começar com lixas de granas menores, como 60, 80, 120 e 220 (sempre lixa d’água OK?) 
+
+2) Seladora concentrada, quanto de seladora, é mais normal encontrar latas de seladora com 1 litro (800 ou 900 ml) 
+
+3) Esperar curar a seladora por quanto tempo? 
+
+	tem as informações na lata, em média depois da 2a mão, você deve esperar pelo menos 8 horas, 
+	como tempo é importantíssimo para estas coisas, espere no mínimo 24 horas (é que estes 
+	produtos são todos compostos de um monte de produtos, e eles tem o seu próprio tempo de 
+	evaporação/secagem) 
+
+4) Lixa d água até 400 ( ir lixando c/ diversas lixas até chegar a lixa de 400 ??) 
+
+	é exatamente isto, você vai lixar com 60, 80, 120, 220, 320 e 400. Com a ressalva 
+	de que só vai usar as mais grossas (60, 80 e 120) se tiver uma camada muito grossa para lixar... 
+
+5) 4 ou 5 mãos de Tinta automotiva (pode ser em spray) 
+
+6) Esperar a cura da tinta. 
+	
+	não precisa de esperar 2 dias não, 1 dia ta beleza. lembre-se de limpar a 
+	tinta já seca antes de envernizar. um pano seco ta bom pro serviço. 
+
+7) Aplicar o verniz de PU 
+
+	PU é a abreviação para POLIURETANO, e tem que ser sempre BI-COMPONENTE 
+ 	(eles te entregam um potinho de catalisador, e você lê na lata a mistura que 
+	tem que ser feita) ele tem que ser aplicado com compressor sim, e GLASURIT 
+	é uma das marcas que existem (comigo foi a que apresentou o melhor resultado 
+	em termos de resistência e dureza). 
+
+8- Esperar 1 semana p/ a cura do verniz 
+
+	esperar 1 semana porque são muitas camadas (6 a 10 mais ou menos) e elas 
+	vão emitir gases (evaporar) lentamente, porque uma camada está sobreposta à 
+	anterior, freiando um pouco o processo de cura.. daí é extremamente importante 
+	este tempo, para você ter um verniz realmente duro e resistente. 
+
+9) Nivelar o verniz com lixa d''água até 1200/1500 
+
+	dependendo de como ficaram as camadas, você pode começar com lixas 
+	mais agressivas (como quando ele escorre) como as de 60,80,120, normalmente 
+	220, 320, 400, 600, 800 (se achar) 1000 e 1200. 
+
+10) Polimento c/ pasta numero 1 e 2 
+
+	se tiver uma politriz é legal para puxar muito mesmo o brilho (o miror like finish), 
+	agora muito cuidado na hora de colocar o boné porque o barbante de fixação do boné. 
+
+10.1 Pode usar furadeira com boné? 
+
+	Pode sim, mas tem que ser uma furadeira com velocidade variável, porque velocidade 
+	muito alta detona o verniz, porque esquenta e ele tende a sair fora... 
+	Até numa politriz (destas hobby) você tem que tomar cuidado, porque a velocidade 
+	ainda é muito alta, o ideal é passar ela de leve, mais encostando na guita e ir 
+	baixando ela aos poucos, e nunca com muita pasta não, porque dificulta o trabalho"
+
+
+GUIA 2:
+---------
+
+Desmontar guitarra
+
+A primeira coisa a fazer é desmonar a guitarra.
+tudo o que for parafusos, tentem mante-los presos às peças que aparafusam usando fita cola ou assim. assim sabem sempre de onde é cada um dos parafusos. 
+guardem todas as peças de uma guitarra numa caixa. se acharem necessario, façam etiquetas das diferentes partes.
+
+
+
+Separar braço
+
+O braço da guitarra, caso saia, tem que ser tirado e arrumado. a nao ser que seja também para pintar, pelo que, se for o caso, deve seguir os mesmos passos do corpo da guitarra.
+
+
+Decapar ou lixar
+
+Primeiro há aqui um dilema a resolver. Decapar a guitarra ou simplesmente lixar a superficie um bocado para criar base para tinta?
+se a guitarra for de uma marca aceitavel, de confiança, basta lixar a tinta, com uma lixa 320, até ficar toda esbranquiçada. aí, o que devem fazer é simplesmente limpar e pintar por cima. a qualidade da marca garante que o que está por debaixo é de qualidade e vai aceitar bem uma nova pintura.
+
+Se for uma marca mais duvidosa, ou uma guitarra ja com cortes ou arranhadelas profundas, o ideal é mesmo lixar tudo até à madeira, ou para quem nao está com meias medidas, atirar decapante para cima, e ver a tinta a corroer toda.
+
+Depois disto devem raspar levemente a tinta e depois lixar tudo até terem uma superficie limpinha.
+caso hajam arranjadelas mesmo profundas e nao queiram que se notem depois, devem usar massa de enchimento, como Bondo da 3M. esta massa vai secar e servir como uma boa base de pintura. coloquem só nas zonas que precisem. como por exemplo para tapar buracos de parafusos que suguram a pickguard, caso nao queiram a pickguard no final, e nao queiram la os furos.
+Depois devem limpar muito bem a guitarra
+
+
+isolar com fita cola
+
+algumas partes como o interior dos buracos dos pickups ou outrs pode ser pintados pk nao influenciam muito o comportamento da guitarra. Mas coisas como a zona onde o braço encaixa no corpo é imperativo proteger com fita isoladora para que a tinta nao vá alterar o modo como o braço encaixa no corpo.
+
+-------
+este passo é minimamente importante. devem arranjar alguma maneira de conseguir segurar na guitarra sem tocar em nenhuma das partes a ser pintada. o que geralmente se faz é ou arranjar um gancho fixo no tecto ou em outra coisa alta, e pendurar a guitarra por um dos buracos dos parafusos do braço. ainda assim isto obriga a que pintem no interior, o que nao é aconselhado se nao tiverem boa ventilação. arriscam-se a pintar tudo e apanhar uma moca que nao voz digo nada!
+o melhor mesmo é arranjar uma tabua parecida com o braço da guitarra. fazer um furo igual ao do corpo e aparafusa-la à guitarra como se fosse o braço.
+-------
+
+
+Aplicar tapa-poros
+
+Depois devem aplicar o tapa-poros. o tapa-poros basicamente vai vedar a madeira da guitarra, evitando que se deixa acomular de humidade.
+o ideal para este caso é aplicar tapa-poros à trincha e nao em spray, pk o ideal nao é o acabamento mas sim encharcar bem a madeira de modo a que fique mesmo vedada.
+depois de aplicadas umas 6 ou 7 camadas devem lixar tudo com lixa 400 para ficar bem lizinho para receber o primario.
+
+
+Aplicar primario
+
+O primario deve ser aplicado gradualmente com passagens rapidas. os famosos "fuminhos". basicamente a idea é que cada passagem deixe uma camada uniforme. Ao mesmo tempo que ajuda que cada camada fina seque mais depressa. devem pintar cerca de 5 camadas de primario.
+A aplicação de cada camada deve ser feita da seguinte maneira: façam uma passagem de cerca de um segundo (aproximadamente) e façam a proxima passagem no sentido oposto, um bocado acima, de modo a que apanhe metade da passagem anterior. basicamente cada passagem deve cobrir parte da anterior.
+depois dêm uma simples passagem à volta do corpo da guitarra, seguindo o contorno.
+deixem secar bem antes de pintar a camada seguinte.
+assim que estiver seco, podem lixar com lixa 400 o corpo todo. a lixa deve estar seca, nao com água.
+aplicar tinta
+a aplicação da tinta é feita do mesmo modo que do primario. cada passagem deve cobrir metade da passagem anterior.
+caso a vossa pintura tenha desenhos ou decorações, devem primeiro pintar a cor na qual querem que essas decorações sejam. por exemplo: uma guitarra com estrelas vermelhas sobre fundo branco. devem primeiro pintar o vermelho.
+depois de pintar o vermelho deverão arranjar algo em forma de estrela (pedaços de fita isoladora cortados em forma de estrela por exemplo) e cola-los à guitarra nos locais onde querem que se vejam.
+em seguida devem pintar o branco, cobrindo todo o corpo da guitarra.
+Cada cor deve ter no minimo 5 camadas finas, usando a tecnica ja descrita, e deve-se deixar secar bem antes de colocar qualquer tipo de fita isoladora, sob a pena de a tinta ainda nao estar seca se colar à fita, e sair com ela quando a tirarem. por isso: Secar muito bem.
+Depois coloquem o isolamento que querem. riscas, circulos, estrelas, bolas. é aqui que entra a parte divertida de realmente criar o gráfico ou a identidade visual da guitarra.
+assim que estiver tudo, o que querem manter, bem tapadinho, começem a aplicar a cor de fundo.
+Mais uma vez, camadas finas, graduamente preenchendo bem a guitarra com cor.
+No fim é preciso também deixar a guitarra secar de modo a que possa mais facilmente tirar a fita isoladora para mostrar a cor por debaixo.
+Assim que estiver tudo seco e pronto a ser envernizado devem limpar a guitarra muito bem com um pano que nao deixe pêlos nem faça arranhoes. algo de algodão serve.
+
+
+Aplicar verniz
+
+o verniz é aplicado do mesmo modo que a tinta. finas camadas gradualmente. 
+a unica diferença é que provavelmente, para ficar bem, devem aplicar aí umas 15 a 20 passagens de verniz.
+A ideia aqui é que quando fazem um esquema a duas cores, uma das cores fica mais alta do que a outra, por causa do isolamento. 
+O verniz ao ser aplicado em poucas camadas, nao vai conseguir nivelar essa diferença, e vao-se notar pequenos degraus na pintura quando o verniz secar.
+Criando mais camadas aumenta-se a espessura do verniz, e depois, quando estiver seco, pode-se lixar o verniz de modo a ficar perfeitamente liso e nivelado.
+Quanto À secagem, é a parte pior. como o verniz em lata nao pode levar emdurecedor, têm que o deixar secar e curar durante um a dois meses. o ideal seria 5 a 6 semanas. é bastante tempo por isso o ideal é que tenham uma segunda guitarra para substituir.
+depois de minimamente seco, o verniz deverá parecer-se com casca de laranja, e o brilho da guitarra será baço e pouco forte, e os reflexos relativamente desfocados. mas isto resolve-se no passo seguinte
+lembre-se que o verniz está seco, mas nao estão "assente" nem curou ainda, e lixa-lo agora seria estragar a pintura.
+
+
+Lixar o verniz
+
+Assim que o verniz estiver seco devem lixa-lo, e agora sim, com a lixa molhada em água.
+cada passagem de lixa deve demorar uns bons 20 minutos.
+lembrem-se de desaparafusar o braço falso que usaram e preparem uma mesa com algo por baixo, como um pano ou um cobertor velho. algo que nao vá estragar a pintura ao fazerem pressão
+a ideia é lixar desde a lixa 320 até à lixa 1200 ou até 2000.
+mas nao podem simplesmente saltar da 320 para a 1200, porque a 1200 nao vai ser capaz de alisar o riscos causados pela 320, que apesar se nao se notarem muito a olho nú, vai evitar que a guitarra no final nao consiga ter aquele brilho que se quer.
+portanto: lixar 320 com água, depois passar para 400, depois 600, depois 1000 e depois 1200 ou 2000. todas estas lixas deve ser com água.
+
+Assim que acabarem o estafante processo de lixar o verniz a superficie será brilhante mas nao muito espelhada. deverá sentir-se lisa como um vidro ou como marmore polido.
+
+
+Puxar o lustro
+
+ainda com a guitarra numa base "almofadada" para nao se estragar a pintura, comecem a colocar pequenas quantidades de massa de polir em pequenas zonas. começem com zonas menos acidentadas, como a parte abaixo do cavalete para se moverem à vontade. 
+agarrem num pano limpo e espalhem a massa de polir e esfreguem energicamente em circulos até a massa se espalhar bem e dar lugar a brilho. Se fizeram tudo bem até ao momento o brilho nao deve demorar muito a aparecer.
+é aqui que serão recompensados pela paciência
+vao gradualmente aplicando o polimento até terem o corpo completamente polido e conseguirem ver a vossa cara na guitarra.
+se por acaso reparem em alguma parte do verniz que tenha ficado com uma gota ou um escorrimento, devem lixar essa zona tal como o resto do corpo. da lixa 320 até à 1200 e voltar a polir até desaparecer.
+
+
+---------------
+Notas finais:
+Uma das coisas que devem garantir que usam, é tintas da mesma gama. se usarem tintas acrilicas devem usar verniz acrilico. se usarem tintas celulosas, devem usar verniz celuloso. o vosso vendedor decerto saberá distinguir e orientar.
+actualmente existem ainda tintas em poliuretano, que além de existir tinta e verniz, são extremamente rapidas a secar. O verniz pode ser comprado com uma caixa de catalizador, que ao ser misturado faz o verniz secar e curar em cerca de 24 h. 
+isto quer dizer que podem pintar uma guitarra num fim de semana, por exemplo. 
+antes de comprar seja o que for tentem saber que ao pé de voces existe alguma loja que tenha destas tintas.
+há também umas latas de spray sem tinta, que podem ser uzadas para encher com tinhas misturadas, como por exemplo aquela cor especifica que querem, mas que nao conseguem encontrar em lata, ou para colocar verniz com catalizador que tenham sem ser em lata.
+no meu caso tinha compressor de ar e verniz em lata que depois tive que misturar na pistola de pintura. na lata vinham as partes a misturar e apesar da coisa ser um bocado a olho, a mistura até que funcionou. 
+
+Boas pinturas!

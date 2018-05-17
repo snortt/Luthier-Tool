@@ -1,0 +1,8 @@
+Package: mcgls 
+Section: system 
+Priority: optional
+Version: 1.0
+Maintainer: Gabriel Marques <snortt@gmail.com>
+Depends: 
+Architecture: amd64
+Description: Auxilia luthiers no processo de criacao de guitarras e baixos. 
